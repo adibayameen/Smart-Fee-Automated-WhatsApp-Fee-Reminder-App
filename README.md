@@ -99,6 +99,11 @@ Upload your Excel file through the Streamlit interface, then click **“Send Mes
 Smart Fee operates entirely on your local machine. No external storage or transmission of your data occurs.
 All messaging is executed from your system, ensuring complete privacy and control over sensitive information.
 
+
+https://github.com/user-attachments/assets/0af2ee96-1916-4ee6-ac9f-dd6ed7bd05d5
+
+
+
 ---
 
 ## Developer
