@@ -1,4 +1,5 @@
 # Smart Fee – Smart, Simple, Seamless
+<img width="1024" height="1024" alt="whatsapp" src="https://github.com/user-attachments/assets/2145abbf-9376-4189-80d9-59729ad309a6" />
 
 **Smart Fee** is a professional, automated communication system designed for educational institutions to manage fee-related notifications via WhatsApp.  
 Developed with **Python** and **Streamlit**, it provides a user-friendly interface for sending personalized reminders and acknowledgments to parents, helping schools maintain efficient and transparent communication.
